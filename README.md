@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Kumudu Wijewardhana
-- 👀 I’m interested in UI/UX design and Application development
-- 🌱 I’m currently learning as an undergraduate student
-- 💞️ I’m looking to collaborate on any project
+- 👋 Hi, I’m Kumudu Wijewardhana.
+- 👀 I’m interested in UI/UX design, Machine Learning and Application development.
+- 🌱 I’m currently learning as an undergraduate student.
+- 💞️ I’m looking to collaborate on any project.
 - 📫 Contact me via kumuduwijewardana3@gmail.com
 
 <!---
