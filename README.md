@@ -53,11 +53,11 @@
 
   
 
-## Github Activity ✔:
+<!-- ## Github Activity ✔: -->
 
   
 
-<a href="https://github.com/kumuduwije">
+<!-- <a href="https://github.com/kumuduwije">
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumuduwije&theme=tokyonight" />
 
@@ -73,7 +73,7 @@
 <br/>
 <br/>
 <br/>
-<br/>
+<br/> -->
 
 
 
