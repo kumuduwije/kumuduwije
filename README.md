@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Web & Mobile based projects.**
 
-- 👨‍💻 Some of my projects are available at [http://www.kaytrun.com](http://www.kaytrun.com).
+- 👨‍💻 Some of my projects are available at [http://www.kaytrun.com](http://www.kaytrun.com). I hope to launch my portfolio website very soon.
 
 - 💬 Ask me about **React and Android.**
 
