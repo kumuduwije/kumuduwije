@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumuduwije&label=Profile%20views&color=0e75b6&style=flat" alt="kumuduwije" /> </p>
 
-- 🔭 I’m currently working on my own personal project called [Rate Rocket](https://rate-rocket-client.onrender.com/).
+- 🔭 I’m working on my project called **User Genius**.
 
-- 🌱 I’m currently learning **MERN stack and Flutter.**
+- 🌱 I’m currently learning **MERN stack, Next.js, Flutter and AWS.**
 
 - 👯 I’m looking to collaborate on **Web & Mobile based projects.**
 
-- 👨‍💻 Some of my projects are available at [http://www.kaytrun.com](http://www.kaytrun.com). I hope to launch my portfolio website very soon.
+- 👨‍💻 Some of my projects are available at [kumudu.co](https://kumuduwije-portfolio.vercel.app/). I hope to launch my portfolio website very soon.
 
-- 💬 Ask me about **React and Android.**
+- 💬 Ask me about Java, JavaScript, TypeScript, React, Next.js, Nest.js, CSS and Android technologies.
 
 - 📫 Reach me through **kumuduwijewardana3@gmail.com**
 
